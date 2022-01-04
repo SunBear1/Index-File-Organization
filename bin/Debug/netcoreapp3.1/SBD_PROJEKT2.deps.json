@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SBD_PROJEKT2/1.0.0": {
+        "runtime": {
+          "SBD_PROJEKT2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SBD_PROJEKT2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

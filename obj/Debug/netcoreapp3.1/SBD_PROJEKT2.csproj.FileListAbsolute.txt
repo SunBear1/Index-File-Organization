@@ -1,0 +1,14 @@
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.exe
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.deps.json
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.runtimeconfig.json
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.runtimeconfig.dev.json
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.dll
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\bin\Debug\netcoreapp3.1\SBD_PROJEKT2.pdb
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.csproj.AssemblyReference.cache
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.AssemblyInfoInputs.cache
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.AssemblyInfo.cs
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.dll
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.pdb
+C:\Users\LocalAdmin\OneDrive\INF\SEM5\STRUKTURY BAZ DANYCH\SBD_PROJEKT2\obj\Debug\netcoreapp3.1\SBD_PROJEKT2.genruntimeconfig.cache
